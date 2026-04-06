@@ -1,12 +1,12 @@
 {
-  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
+  "name": "Dark md",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-    "stop": "pm2 stop ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-    "restart": "pm2 restart ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Dark md",
+    "stop": "pm2 stop Dark md",
+    "restart": "pm2 restart Dark md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",

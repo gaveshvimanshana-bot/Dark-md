@@ -10,7 +10,7 @@ cmd(
     filename: __filename,
   },
   async (
-    robin,
+    dark,
     mek,
     m,
     {
@@ -84,11 +84,11 @@ ${menu.group}
 ${menu.search}
 
 
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
+🥶𝐌𝐚𝐝𝐞 𝐛𝐲 Gavesh🥶
 
-> ROBIN MENU MSG
+> dark md MENU MSG
 `;
-      await robin.sendMessage(
+      await dark.sendMessage(
         from,
         {
           image: {
